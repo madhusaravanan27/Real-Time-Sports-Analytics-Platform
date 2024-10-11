@@ -3,6 +3,7 @@
 **Project Overview**:
 
 The Real Time Sports Analytic Platform is a distributed data pipeline designed to process a live lacrosse game stream, update player and team statistics, and generate live box scores for web developers. The project integrates various technologies, including PySpark, MongoDB, Microsoft SQL Server (MSSQL), and Minio (S3-compatible storage), to simulate a real-world sports analytics system. 
+
 **Technologies Used**:
 
 PySpark: For distributed data processing and transformations
